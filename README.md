@@ -6,7 +6,6 @@
 <body>
 	<header>
 		<h1>Andrew Stanley</h1>
-		<p>Hello! I work on communications at the IMF, with a focus on data driven and visual storytelling.</p>
 	</header>
 	<section class="grid">
 		<div class="box">
